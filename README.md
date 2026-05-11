@@ -12,7 +12,7 @@ Soy un apasionado por el desarrollo de software y la seguridad informática, enf
 
 ### 🛠️ Tecnologías y Herramientas
 
-**Lenguajes y Backend**
+**Languages & Backend**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,php,nodejs,js,ts,cpp,lua,bash" alt="Backend Skills" />
 </p>
