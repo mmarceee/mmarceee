@@ -1,19 +1,39 @@
 # Hi 👋, I'm Ezequiel Marcenal
 
-### A passionate developer
+### 🚀 Developer & Cybersecurity Enthusiast
+Soy un apasionado por el desarrollo web y la seguridad informática, enfocado en construir soluciones eficientes y seguras.
 
-- 🌱 I'm currently learning **JavaEE, PHP, Laravel, Lua**
+- 🎓 Estudiante de Tecnologías de la Información en **UTEC**.
+- 🌱 Actualmente aprendiendo: **JavaEE, Laravel y Ciberseguridad**.
+- 👨‍💻 Mis proyectos principales: **[marcenaldev.vercel.app](https://marcenaldev.vercel.app)**
+- 📫 Contacto: **emarcenal67@gmail.com**
 
-- 📫 How to reach me **emarcenal67@gmail.com**
+---
 
-- 👨‍💻 All of my projects are available at **[https://marcenaldev.vercel.app](https://marcenaldev.vercel.app)**
+### 🛠️ Tecnologías y Herramientas
 
-<h3 align="left">Connect with me:</h3>
+**Lenguajes y Backend**
 <p align="left">
-<a href="https://github.com/mmarceee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mmarceee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/ezequiel-marcenal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ezequiel-marcenal" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,php,nodejs,js,ts,cpp,lua,bash" alt="Backend Skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+**Frontend & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,postgresql,docker,aws,git" alt="Frontend & Tools" />
+</p>
 
+---
+
+### 📈 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmarceee&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarceee&layout=compact&theme=dracula" height="150" />
+</p>
+
+---
+
+### 🤝 Conectemos:
+<p align="left">
+<a href="https://linkedin.com/in/ezequiel-marcenal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<a href="https://marcenaldev.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+</p>
