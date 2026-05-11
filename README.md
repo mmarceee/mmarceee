@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ezequiel Marcenal
 
 ### 🚀 Developer & Cybersecurity Enthusiast
-Soy un apasionado por el desarrollo web y la seguridad informática, enfocado en construir soluciones eficientes y seguras.
+Soy un apasionado por el desarrollo de software y la seguridad informática, enfocado en construir soluciones eficientes y seguras.
 
 - 🎓 Estudiante de Tecnologías de la Información en **UTEC**.
 - 🌱 Actualmente aprendiendo: **JavaEE, Laravel y Ciberseguridad**.
@@ -20,14 +20,6 @@ Soy un apasionado por el desarrollo web y la seguridad informática, enfocado en
 **Frontend & Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,vue,postgresql,docker,aws,git" alt="Frontend & Tools" />
-</p>
-
----
-
-### 📈 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmarceee&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarceee&layout=compact&theme=dracula" height="150" />
 </p>
 
 ---
